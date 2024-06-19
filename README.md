@@ -1,7 +1,48 @@
+
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/FelipeDevMelo/Alura-Geek)
+![GitHub top language](https://img.shields.io/github/languages/top/FelipeDevMelo/Alura-Geek)
+![NPM Version](https://img.shields.io/npm/v/json-server)
+
+
 # Flouwer-Shop-React
-Flower-Shop LandignPage -React
+Landing page de uma floricultura simples, feita para praticar React e seus componentes.
+
+
+## Instalação
+
+1. Clone o repositório do GitHub:
+
+```bash
+https://github.com/FelipeDevMelo/Flouwer-Shop-React.git
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd Flouwer-Shop-React
+```
+
+3. Instale as dependências necessárias:
+
+```bash
+npm install
+```
+
+## Uso
+
+
+2. Abra o navegador e acesse:
+
+```
+http://localhost:3000
+```
 
 ![image](https://github.com/FelipeDevMelo/Flouwer-Shop-React/assets/73553939/66c39be6-710a-4f0e-ac66-373d74e84f2c)
+
+
+
 
 
 
